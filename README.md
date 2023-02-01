@@ -1,1 +1,1 @@
-# sequrity
+# security
